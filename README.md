@@ -1,2 +1,2 @@
 # KZW
-Komputerowo Zintegrowane Wytwarzanie - PWr
+Komputerowo Zintegrowane Wytwarzanie - Laboratorium
